@@ -1,0 +1,8 @@
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question04\Question04\bin\Debug\Question04.exe.config
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question04\Question04\bin\Debug\Question04.exe
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question04\Question04\bin\Debug\Question04.pdb
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question04\Question04\obj\Debug\Question04.exe
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question04\Question04\obj\Debug\Question04.pdb
+J:\All FOLDER\ProblemSolution01\Question04\Question04\bin\Debug\Question04.exe.config
+J:\All FOLDER\ProblemSolution01\Question04\Question04\obj\Debug\Question04.exe
+J:\All FOLDER\ProblemSolution01\Question04\Question04\obj\Debug\Question04.pdb

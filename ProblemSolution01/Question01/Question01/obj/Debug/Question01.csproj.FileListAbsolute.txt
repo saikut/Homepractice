@@ -1,0 +1,12 @@
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question01\Question01\bin\Debug\Question01.exe.config
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question01\Question01\bin\Debug\Question01.exe
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question01\Question01\bin\Debug\Question01.pdb
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question01\Question01\obj\Debug\Question01.csprojResolveAssemblyReference.cache
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question01\Question01\obj\Debug\Question01.exe
+F:\Home Practice\ConsoleApplication\ProblemSolution01\Question01\Question01\obj\Debug\Question01.pdb
+J:\All FOLDER\ProblemSolution01\Question01\Question01\bin\Debug\Question01.exe.config
+J:\All FOLDER\ProblemSolution01\Question01\Question01\obj\Debug\Question01.exe
+J:\All FOLDER\ProblemSolution01\Question01\Question01\obj\Debug\Question01.pdb
+J:\All FOLDER\ProblemSolution01\Question01\Question01\bin\Debug\Question01.exe
+J:\All FOLDER\ProblemSolution01\Question01\Question01\bin\Debug\Question01.pdb
+J:\All FOLDER\ProblemSolution01\Question01\Question01\obj\Debug\Question01.csprojResolveAssemblyReference.cache
